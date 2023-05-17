@@ -1,2 +1,2 @@
 # Useful-scripts
-My useful scripts who can help on a daily basis
+My useful scripts which can help in some cases in our life.
